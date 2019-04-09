@@ -15,7 +15,7 @@
    version="1.1"
    id="svg64"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="achterkant.svg">
+   sodipodi:docname="full-with isw.svg">
   <defs
      id="defs58">
     <inkscape:path-effect
@@ -160,9 +160,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.1394722"
-     inkscape:cx="1937.7188"
-     inkscape:cy="332.4355"
+     inkscape:zoom="0.40286427"
+     inkscape:cx="1595.8233"
+     inkscape:cy="474.97227"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -183,7 +183,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
